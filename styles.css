@@ -780,10 +780,10 @@ nav{
     transition: .2s ease-in-out;
   }
   
-  .facebook {
-    margin-top: 1.5em;
-    margin-left: -.9em;
-    fill: #03A9F4;
+  .github {
+    margin-top: 1.3em;
+    margin-left: -1em;
+    fill: #000000;
   }
   
   .card3 {
@@ -833,10 +833,10 @@ nav{
   .card2:hover {
     cursor: pointer;
     scale: 1.1;
-    background-color: #1877f2;
+    background-color: #000000;
   }
   
-  .card2:hover .facebook {
+  .card2:hover .github {
     fill: white;
   }
   
