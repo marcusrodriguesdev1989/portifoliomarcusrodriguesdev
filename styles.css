@@ -185,7 +185,7 @@ nav{
     display: flex;
     flex-direction: column;
     margin-left: 80px;
-    margin-bottom: 15rem;
+    margin-bottom: 1rem;
 }
 
 .container-texto-titulo{
@@ -380,7 +380,7 @@ nav{
     }
 
     .secao-sobremim{
-        margin-top: 10rem;
+        margin-top: 1rem;
         width: 100%;
     }
 
