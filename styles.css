@@ -18,7 +18,8 @@ html {
     font-size: 62.5%;
     color: var(--branco-principal);
     font-family: "Lato", sans-serif;
-    background-color: var(--preto-principal);
+    background: linear-gradient(rgba(10, 10, 10, 0.8), rgba(17, 17, 17, 0.8)), url(./assets/back.jpg);
+    background-attachment: fixed;
     scroll-behavior: smooth;
     scroll-padding-top: 6rem;
 }
@@ -28,6 +29,8 @@ header{
     width: 100%;
     position: fixed;
     z-index: 99999;
+    top: 0;
+    left: 0;
 }
 a {
     font-size: 18px;
