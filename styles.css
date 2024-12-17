@@ -185,7 +185,7 @@ nav{
     display: flex;
     flex-direction: column;
     margin-left: 80px;
-    margin-bottom: 1rem;
+    margin-bottom: 23rem;
 }
 
 .container-texto-titulo{
@@ -317,6 +317,9 @@ nav{
 }
 
 @media (max-width: 680px){
+    .container-texto{
+        margin-bottom: 2rem;
+    }
     .container-texto-titulo{
         font-size: 2rem;
         margin: 0 3rem;
