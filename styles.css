@@ -689,6 +689,12 @@ nav{
         width: 300px;
         height: 300px;
     }
+
+    .flip-card{
+        margin-top: 10rem;
+        transition: transform 0.9s;
+        transform-style: preserve-3d;
+    }
 }
 
 /*certificados fim*/
