@@ -44,3 +44,5 @@ class MobileNavbar {
   mobileNavbar.init();
 
   AOS.init();
+
+ 
